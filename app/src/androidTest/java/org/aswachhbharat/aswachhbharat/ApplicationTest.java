@@ -1,4 +1,4 @@
-package devup.in.aswachhbharat;
+package org.aswachhbharat.aswachhbharat;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

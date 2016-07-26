@@ -1,4 +1,4 @@
-package devup.in.aswachhbharat;
+package org.aswachhbharat.aswachhbharat;
 
 import org.junit.Test;
 

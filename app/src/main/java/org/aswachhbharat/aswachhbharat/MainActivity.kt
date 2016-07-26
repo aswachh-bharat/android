@@ -1,4 +1,4 @@
-package devup.`in`.aswachhbharat
+package org.aswachhbharat.aswachhbharat
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
